@@ -5,7 +5,7 @@ namespace HelloSebastian\HelloBootstrapTableBundle;
 
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Routing\RouterInterface;
-use Symfony\Component\Security\Core\Security;
+use Symfony\Bundle\SecurityBundle\Security;
 use Twig\Environment;
 
 class HelloBootstrapTableFactory
