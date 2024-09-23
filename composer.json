@@ -20,7 +20,7 @@
         "php": ">=7.2.5",
         "ext-json": "*",
         "doctrine/common": "^2.6|^3.0",
-        "doctrine/orm": "^2.10",
+        "doctrine/orm": "^2.10|^3.0",
         "symfony/property-access": "^4.4|^5.0|^6.0|^7.0",
         "symfony/security-bundle": "^4.4|^5.0|^6.0|^7.0",
         "symfony/twig-bundle": "^4.4|^5.0|^6.0|^7.0",
